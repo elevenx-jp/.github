@@ -1,5 +1,5 @@
-# UTokyo Football Lab.
-UTokyo Football Lab.は、サッカー界にデータ革命をもたらすことを目指す、東京大学ア式蹴球部発のエンジニア組織です。
+# ElevenX
+ElevenXは、サッカー界にデータ革命をもたらすことを目指す、東京大学ア式蹴球部発のエンジニア組織です。
 <!--
 
 **Here are some ideas to get you started:**
